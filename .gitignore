@@ -1,3 +1,9 @@
+# Binary file
+hash-bruteforce
+
+# Valgrind files
+vgcore.*
+
 # Prerequisites
 *.d
 
